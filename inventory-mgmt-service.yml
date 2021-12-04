@@ -7,5 +7,5 @@ spring:
     
 stock:
    transportType: air
-   slaDay: 12
+   slaDay: 19
    
