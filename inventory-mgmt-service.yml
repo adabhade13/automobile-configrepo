@@ -4,6 +4,10 @@ spring:
     url: jdbc:oracle:thin:@localhost:1521:xe
     username: system
     password: manager
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: false
     
 stock:
    transportType: air
